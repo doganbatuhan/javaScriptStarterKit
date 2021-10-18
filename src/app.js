@@ -33,3 +33,4 @@ console.log(konutKredileri[2])
 
 console.log(konutKredileri[1])
 
+
